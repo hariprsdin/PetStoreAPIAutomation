@@ -1,0 +1,37 @@
+2025-02-06 13:30:56 [main] INFO  api.test.UserTests - Setup data initiated......
+2025-02-06 13:30:56 [main] INFO  api.test.UserTests - Creating a new user using post request
+2025-02-06 13:31:01 [main] INFO  api.test.UserTests - User created successfully using post request
+2025-02-06 13:31:01 [main] INFO  api.test.UserTests - Get the user name
+2025-02-06 13:31:02 [main] INFO  api.test.UserTests - Got the username and verified
+2025-02-06 13:31:02 [main] INFO  api.test.UserTests - Initial First Name: Teressa
+2025-02-06 13:31:02 [main] INFO  api.test.UserTests - Initial Last Name: Heaney
+2025-02-06 13:31:02 [main] INFO  api.test.UserTests - Initial Email : lorraine.kuphal@example.com
+2025-02-06 13:31:04 [main] INFO  api.test.UserTests - Updated First Name: Raymond
+2025-02-06 13:31:04 [main] INFO  api.test.UserTests - Updated Last Name: Vandervort
+2025-02-06 13:31:04 [main] INFO  api.test.UserTests - Updated Email : vicente.krajcik@example.com
+2025-02-06 13:31:04 [main] INFO  api.test.UserTests - Update the user and got the status code 200
+2025-02-06 13:31:05 [main] INFO  api.test.UserTests - Verify the user data after updating the record
+2025-02-06 13:31:05 [main] INFO  api.test.UserTests - Going to delete the user: hunter.legros
+2025-02-06 13:31:06 [main] INFO  api.test.UserTests - User hunter.legros deleted successfully
+2025-02-06 13:31:06 [main] INFO  api.test.UserTestsProp - Setup data initiated......
+2025-02-06 13:31:06 [main] INFO  api.test.UserTestsProp - Creating a new user using post request
+2025-02-06 13:31:08 [main] INFO  api.test.UserTestsProp - User created successfully using post request
+2025-02-06 13:31:08 [main] INFO  api.test.UserTestsProp - Get the user name
+2025-02-06 13:31:09 [main] INFO  api.test.UserTestsProp - Got the username and verified
+2025-02-06 13:31:09 [main] INFO  api.test.UserTestsProp - Initial First Name: Danyel
+2025-02-06 13:31:09 [main] INFO  api.test.UserTestsProp - Initial Last Name: Romaguera
+2025-02-06 13:31:09 [main] INFO  api.test.UserTestsProp - Initial Email : lisandra.stoltenberg@example.com
+2025-02-06 13:31:10 [main] INFO  api.test.UserTestsProp - Updated First Name: Tara
+2025-02-06 13:31:10 [main] INFO  api.test.UserTestsProp - Updated Last Name: Gutmann
+2025-02-06 13:31:10 [main] INFO  api.test.UserTestsProp - Updated Email : alysa.kilback@example.com
+2025-02-06 13:31:10 [main] INFO  api.test.UserTestsProp - Update the user and got the status code 200
+2025-02-06 13:31:12 [main] INFO  api.test.UserTestsProp - Verify the user data after updating the record
+2025-02-06 13:31:12 [main] INFO  api.test.UserTestsProp - Going to delete the user: mitsue.hermann
+2025-02-06 13:31:13 [main] INFO  api.test.UserTestsProp - User mitsue.hermann deleted successfully
+2025-02-06 13:31:13 [main] INFO  api.test.UserTestsDDT - Setup data initiated......
+2025-02-06 13:31:16 [main] INFO  api.test.UserTestsDDT - User testuser1 created successfully
+2025-02-06 13:31:18 [main] INFO  api.test.UserTestsDDT - User testuser2 created successfully
+2025-02-06 13:31:19 [main] INFO  api.test.UserTestsDDT - User testuser3 created successfully
+2025-02-06 13:31:20 [main] INFO  api.test.UserTestsDDT - User testuser1 deleted successfully
+2025-02-06 13:31:22 [main] INFO  api.test.UserTestsDDT - User testuser2 deleted successfully
+2025-02-06 13:31:23 [main] INFO  api.test.UserTestsDDT - User testuser3 deleted successfully
