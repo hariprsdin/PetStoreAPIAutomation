@@ -9,7 +9,6 @@ import com.github.javafaker.Faker;
 import api.payload.User;
 
 public class userTestData {
-
 	public Faker faker = new Faker();;
 	public User userPayload;
 	public Logger log;

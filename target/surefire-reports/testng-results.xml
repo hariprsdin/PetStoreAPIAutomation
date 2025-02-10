@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-06T13:30:54 IST" name="PetStoreSuite" finished-at="2025-02-06T13:31:23 IST" duration-ms="29400">
+  <suite started-at="2025-02-10T17:23:42 IST" name="PetStoreSuite" finished-at="2025-02-10T17:24:14 IST" duration-ms="32711">
     <groups>
     </groups>
-    <test started-at="2025-02-06T13:30:54 IST" name="PetTest" finished-at="2025-02-06T13:31:23 IST" duration-ms="29400">
+    <test started-at="2025-02-10T17:23:42 IST" name="PetTest" finished-at="2025-02-10T17:24:14 IST" duration-ms="32711">
       <class name="api.test.UserTestsDDT">
-        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-06T13:31:13 IST" name="setupData" finished-at="2025-02-06T13:31:13 IST" duration-ms="45" status="PASS">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-10T17:24:03 IST" name="setupData" finished-at="2025-02-10T17:24:03 IST" duration-ms="38" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupData -->
-        <test-method signature="testPostUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-06T13:31:15 IST" name="testPostUser" data-provider="Data" finished-at="2025-02-06T13:31:16 IST" duration-ms="1341" status="PASS">
+        <test-method signature="testPostUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-10T17:24:05 IST" name="testPostUser" data-provider="Data" finished-at="2025-02-10T17:24:07 IST" duration-ms="1471" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -52,7 +52,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPostUser -->
-        <test-method signature="testPostUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-06T13:31:16 IST" name="testPostUser" data-provider="Data" finished-at="2025-02-06T13:31:18 IST" duration-ms="1308" status="PASS">
+        <test-method signature="testPostUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-10T17:24:07 IST" name="testPostUser" data-provider="Data" finished-at="2025-02-10T17:24:08 IST" duration-ms="1455" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -93,7 +93,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPostUser -->
-        <test-method signature="testPostUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-06T13:31:18 IST" name="testPostUser" data-provider="Data" finished-at="2025-02-06T13:31:19 IST" duration-ms="1361" status="PASS">
+        <test-method signature="testPostUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-10T17:24:08 IST" name="testPostUser" data-provider="Data" finished-at="2025-02-10T17:24:10 IST" duration-ms="1422" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -134,7 +134,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPostUser -->
-        <test-method signature="testDeleteUserByName(java.lang.String)[pri:2, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-06T13:31:19 IST" name="testDeleteUserByName" data-provider="UserNames" finished-at="2025-02-06T13:31:20 IST" duration-ms="1341" status="PASS">
+        <test-method signature="testDeleteUserByName(java.lang.String)[pri:2, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-10T17:24:10 IST" name="testDeleteUserByName" data-provider="UserNames" finished-at="2025-02-10T17:24:11 IST" duration-ms="1427" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -145,7 +145,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDeleteUserByName -->
-        <test-method signature="testDeleteUserByName(java.lang.String)[pri:2, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-06T13:31:20 IST" name="testDeleteUserByName" data-provider="UserNames" finished-at="2025-02-06T13:31:22 IST" duration-ms="1320" status="PASS">
+        <test-method signature="testDeleteUserByName(java.lang.String)[pri:2, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-10T17:24:11 IST" name="testDeleteUserByName" data-provider="UserNames" finished-at="2025-02-10T17:24:13 IST" duration-ms="1452" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -156,7 +156,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDeleteUserByName -->
-        <test-method signature="testDeleteUserByName(java.lang.String)[pri:2, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-06T13:31:22 IST" name="testDeleteUserByName" data-provider="UserNames" finished-at="2025-02-06T13:31:23 IST" duration-ms="1376" status="PASS">
+        <test-method signature="testDeleteUserByName(java.lang.String)[pri:2, instance:api.test.UserTestsDDT@55fe41ea]" started-at="2025-02-10T17:24:13 IST" name="testDeleteUserByName" data-provider="UserNames" finished-at="2025-02-10T17:24:14 IST" duration-ms="1461" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -169,45 +169,45 @@
         </test-method> <!-- testDeleteUserByName -->
       </class> <!-- api.test.UserTestsDDT -->
       <class name="api.test.UserTestsProp">
-        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTestsProp@1c1bbc4e]" started-at="2025-02-06T13:31:06 IST" name="setupData" finished-at="2025-02-06T13:31:06 IST" duration-ms="37" status="PASS">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTestsProp@1c1bbc4e]" started-at="2025-02-10T17:23:56 IST" name="setupData" finished-at="2025-02-10T17:23:56 IST" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupData -->
-        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTestsProp@1c1bbc4e]" started-at="2025-02-06T13:31:06 IST" name="testPostUser" finished-at="2025-02-06T13:31:08 IST" duration-ms="1358" status="PASS">
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTestsProp@1c1bbc4e]" started-at="2025-02-10T17:23:56 IST" name="testPostUser" finished-at="2025-02-10T17:23:57 IST" duration-ms="1461" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPostUser -->
-        <test-method signature="testGetUserByName()[pri:2, instance:api.test.UserTestsProp@1c1bbc4e]" started-at="2025-02-06T13:31:08 IST" name="testGetUserByName" finished-at="2025-02-06T13:31:09 IST" duration-ms="1373" status="PASS">
+        <test-method signature="testGetUserByName()[pri:2, instance:api.test.UserTestsProp@1c1bbc4e]" started-at="2025-02-10T17:23:57 IST" name="testGetUserByName" finished-at="2025-02-10T17:23:59 IST" duration-ms="1349" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetUserByName -->
-        <test-method signature="testUpdateUserByName()[pri:3, instance:api.test.UserTestsProp@1c1bbc4e]" started-at="2025-02-06T13:31:09 IST" name="testUpdateUserByName" finished-at="2025-02-06T13:31:12 IST" duration-ms="2730" status="PASS">
+        <test-method signature="testUpdateUserByName()[pri:3, instance:api.test.UserTestsProp@1c1bbc4e]" started-at="2025-02-10T17:23:59 IST" name="testUpdateUserByName" finished-at="2025-02-10T17:24:01 IST" duration-ms="2786" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateUserByName -->
-        <test-method signature="deleteUserByName()[pri:4, instance:api.test.UserTestsProp@1c1bbc4e]" started-at="2025-02-06T13:31:12 IST" name="deleteUserByName" finished-at="2025-02-06T13:31:13 IST" duration-ms="1324" status="PASS">
+        <test-method signature="deleteUserByName()[pri:4, instance:api.test.UserTestsProp@1c1bbc4e]" started-at="2025-02-10T17:24:01 IST" name="deleteUserByName" finished-at="2025-02-10T17:24:03 IST" duration-ms="1374" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteUserByName -->
       </class> <!-- api.test.UserTestsProp -->
       <class name="api.test.UserTests">
-        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTests@3d285d7e]" started-at="2025-02-06T13:30:54 IST" name="setupData" finished-at="2025-02-06T13:30:56 IST" duration-ms="1491" status="PASS">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTests@3d285d7e]" started-at="2025-02-10T17:23:42 IST" name="setupData" finished-at="2025-02-10T17:23:44 IST" duration-ms="1557" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupData -->
-        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTests@3d285d7e]" started-at="2025-02-06T13:30:56 IST" name="testPostUser" finished-at="2025-02-06T13:31:01 IST" duration-ms="4920" status="PASS">
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTests@3d285d7e]" started-at="2025-02-10T17:23:44 IST" name="testPostUser" finished-at="2025-02-10T17:23:50 IST" duration-ms="6067" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPostUser -->
-        <test-method signature="testGetUserByName()[pri:2, instance:api.test.UserTests@3d285d7e]" started-at="2025-02-06T13:31:01 IST" name="testGetUserByName" finished-at="2025-02-06T13:31:02 IST" duration-ms="1458" status="PASS">
+        <test-method signature="testGetUserByName()[pri:2, instance:api.test.UserTests@3d285d7e]" started-at="2025-02-10T17:23:50 IST" name="testGetUserByName" finished-at="2025-02-10T17:23:52 IST" duration-ms="1508" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetUserByName -->
-        <test-method signature="testUpdateUserByName()[pri:3, instance:api.test.UserTests@3d285d7e]" started-at="2025-02-06T13:31:02 IST" name="testUpdateUserByName" finished-at="2025-02-06T13:31:05 IST" duration-ms="2709" status="PASS">
+        <test-method signature="testUpdateUserByName()[pri:3, instance:api.test.UserTests@3d285d7e]" started-at="2025-02-10T17:23:52 IST" name="testUpdateUserByName" finished-at="2025-02-10T17:23:54 IST" duration-ms="2807" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateUserByName -->
-        <test-method signature="deleteUserByName()[pri:4, instance:api.test.UserTests@3d285d7e]" started-at="2025-02-06T13:31:05 IST" name="deleteUserByName" finished-at="2025-02-06T13:31:06 IST" duration-ms="1308" status="PASS">
+        <test-method signature="deleteUserByName()[pri:4, instance:api.test.UserTests@3d285d7e]" started-at="2025-02-10T17:23:54 IST" name="deleteUserByName" finished-at="2025-02-10T17:23:56 IST" duration-ms="1335" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteUserByName -->
